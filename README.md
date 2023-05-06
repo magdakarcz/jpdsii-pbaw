@@ -12,4 +12,6 @@ php_05 - obiektowosc
 
 php_06 - kontroler glowny
 
+php_07 - ochrona zasobow
+
 xoxo
