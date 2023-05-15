@@ -14,4 +14,6 @@ php_06 - kontroler glowny
 
 php_07 - ochrona zasobow
 
+php_08 - projekt bazo-danowy (medoo)
+
 xoxo
