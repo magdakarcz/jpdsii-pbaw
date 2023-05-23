@@ -16,4 +16,6 @@ php_07 - ochrona zasobow
 
 php_08 - projekt bazo-danowy (medoo)
 
+php_08 - projekt bazo-danowy (amelia + clean urls + ajax)
+
 xoxo
